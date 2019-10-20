@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vk-order-app/static/css/main.3adcad50.chunk.css",
-    "main.js": "/vk-order-app/static/js/main.d9d1bf38.chunk.js",
-    "main.js.map": "/vk-order-app/static/js/main.d9d1bf38.chunk.js.map",
+    "main.css": "/vk-order-app/static/css/main.3b755d46.chunk.css",
+    "main.js": "/vk-order-app/static/js/main.67f6252f.chunk.js",
+    "main.js.map": "/vk-order-app/static/js/main.67f6252f.chunk.js.map",
     "runtime-main.js": "/vk-order-app/static/js/runtime-main.25c57da6.js",
     "runtime-main.js.map": "/vk-order-app/static/js/runtime-main.25c57da6.js.map",
     "static/css/2.0624914a.chunk.css": "/vk-order-app/static/css/2.0624914a.chunk.css",
-    "static/js/2.572e2e19.chunk.js": "/vk-order-app/static/js/2.572e2e19.chunk.js",
-    "static/js/2.572e2e19.chunk.js.map": "/vk-order-app/static/js/2.572e2e19.chunk.js.map",
+    "static/js/2.8baa2029.chunk.js": "/vk-order-app/static/js/2.8baa2029.chunk.js",
+    "static/js/2.8baa2029.chunk.js.map": "/vk-order-app/static/js/2.8baa2029.chunk.js.map",
     "index.html": "/vk-order-app/index.html",
-    "precache-manifest.ba4c3a9e9d9eadc4f2a845790ce81dcb.js": "/vk-order-app/precache-manifest.ba4c3a9e9d9eadc4f2a845790ce81dcb.js",
+    "precache-manifest.f0eb49109e0595ea5d3b038e643d4c74.js": "/vk-order-app/precache-manifest.f0eb49109e0595ea5d3b038e643d4c74.js",
     "service-worker.js": "/vk-order-app/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/vk-order-app/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.3adcad50.chunk.css.map": "/vk-order-app/static/css/main.3adcad50.chunk.css.map",
-    "static/media/01.png": "/vk-order-app/static/media/01.7d712c60.png",
+    "static/css/main.3b755d46.chunk.css.map": "/vk-order-app/static/css/main.3b755d46.chunk.css.map",
     "static/media/01.jpg": "/vk-order-app/static/media/01.8ace344e.jpg",
+    "static/media/01.png": "/vk-order-app/static/media/01.7d712c60.png",
     "static/media/02.jpg": "/vk-order-app/static/media/02.d96d3163.jpg",
     "static/media/02.png": "/vk-order-app/static/media/02.e7aa5226.png",
     "static/media/03.png": "/vk-order-app/static/media/03.10a5883a.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.25c57da6.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.572e2e19.chunk.js",
-    "static/css/main.3adcad50.chunk.css",
-    "static/js/main.d9d1bf38.chunk.js"
+    "static/js/2.8baa2029.chunk.js",
+    "static/css/main.3b755d46.chunk.css",
+    "static/js/main.67f6252f.chunk.js"
   ]
 }
