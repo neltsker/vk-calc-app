@@ -22,13 +22,10 @@ class App extends Component {
 
     componentDidMount() {
 
-        connect.subscribe((e) => {
+        connectVK.subscribe((e) => {
             switch (e.detail.type) {
                 case 'VKWebAppGetUserInfoResult':
-                    this.setState({fetchedUser: e.detail.data});
-                    if (e.detail.data.sex === 1) {
-                        this.setState({male: false});
-                    }
+                    debugger
                     break;
                 default:
                     console.log(e);
