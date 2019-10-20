@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6141c92912d4712f191696d86c5d8ea",
+    "revision": "2dcb79a6b94de015376449881a9fc5a6",
     "url": "/vk-order-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-order-app/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "10ea6e73ae3d0e633455",
+    "revision": "0d6b491c802fd42aef46",
     "url": "/vk-order-app/static/css/main.3b755d46.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-order-app/static/js/2.8baa2029.chunk.js"
   },
   {
-    "revision": "10ea6e73ae3d0e633455",
-    "url": "/vk-order-app/static/js/main.3293c49d.chunk.js"
+    "revision": "0d6b491c802fd42aef46",
+    "url": "/vk-order-app/static/js/main.03d0f71e.chunk.js"
   },
   {
     "revision": "848ff1b44fa2a06ef78a",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-order-app/static/media/02.5901da7a.jpg"
   },
   {
+    "revision": "92419a213a33b30249eb8504705cdcdf",
+    "url": "/vk-order-app/static/media/02.92419a21.jpg"
+  },
+  {
     "revision": "d96d31639c1dc359c5831558f995f5c6",
     "url": "/vk-order-app/static/media/02.d96d3163.jpg"
   },
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "10a5883af227710591d81eb88daee1d2",
     "url": "/vk-order-app/static/media/03.10a5883a.png"
+  },
+  {
+    "revision": "492e2ef38bd68c1cb9ca2d32471f7489",
+    "url": "/vk-order-app/static/media/03.492e2ef3.jpg"
   },
   {
     "revision": "67621612b8e998d121e12068d3795f91",
@@ -66,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a1525a57a1b44880a5ff43ad63a68ab7",
     "url": "/vk-order-app/static/media/04.a1525a57.jpg"
+  },
+  {
+    "revision": "e7d7ce1751a0cb8fd52cbe1d8022f799",
+    "url": "/vk-order-app/static/media/05.e7d7ce17.jpg"
   }
 ]);
