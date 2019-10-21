@@ -6,7 +6,6 @@ import facade02 from "../media/facade/02.jpg"
 import facade03 from "../media/facade/03.jpg"
 import facade04 from "../media/facade/04.png"
 import facade05 from "../media/facade/05.jpg"
-import facade06 from "../media/facade/06.png"
 import facade07 from "../media/facade/07.png"
 
 
@@ -36,8 +35,6 @@ const Page03 = (props) => {
                             value="facade4" id="МДФ-эмаль" checked={props.facade}/>
                 <InputRadio changeInput={props.setFacade} header="Массив" img={facade05} name="facade" value="facade5"
                             id="Массив" checked={props.facade}/>
-                <InputRadio changeInput={props.setFacade} header="Шпон" img={facade06} name="facade" value="facade6"
-                            id="Шпон" checked={props.facade}/>
                 <InputRadio changeInput={props.setFacade} header="Не знаю" img={facade07} name="facade" value="facade7"
                             id="Не знаю" checked={props.facade}/>
             </div>

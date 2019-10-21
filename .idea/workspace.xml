@@ -2,47 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="609339fb-737e-4c04-9a67-fae43bbe0d66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/InputRadioText.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Сongratulation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Buttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/checkboxInputPage9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/inputRadio.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Сongratulation.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/InputRadio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InputRadio.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Page01.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page01.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Page02.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page02.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Page03.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page03.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Page04.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page04.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Page05.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page05.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Page06.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page06.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Page07.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page07.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Page08.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page08.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Page09.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page09.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/kalkulyator/26 мм.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/kalkulyator/36 мм.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/kalkulyator/изображение_viber_2019-07-08_11-41-29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/kalkulyator/каменная стол.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/kalkulyator/массив.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/kalkulyator/мдф.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/kalkulyator/плас.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/Кухня/Ai/Кухни.ai" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/Кухня/Hello.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/Кухня/PNG/Variant 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/Кухня/PNG/Variant 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/Кухня/PNG/Variant 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/Кухня/PNG/Variant 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/Кухня/SVG/Variant 1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/Кухня/SVG/Variant 2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/Кухня/SVG/Variant 3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/Кухня/SVG/Variant 4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/OrderReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/OrderReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +101,9 @@
       <workItem from="1571558720819" duration="7202000" />
       <workItem from="1571566834653" duration="9378000" />
       <workItem from="1571582770682" duration="1486000" />
-      <workItem from="1571599796829" duration="7493000" />
+      <workItem from="1571599796829" duration="7581000" />
+      <workItem from="1571607629397" duration="540000" />
+      <workItem from="1571648177119" duration="879000" />
     </task>
     <servers />
   </component>

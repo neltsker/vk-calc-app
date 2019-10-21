@@ -57,7 +57,7 @@ class App extends React.Component {
 
     setForms = (orderInfo, userInfo) => {
         let sendInfo = `ИД пользователя: ${userInfo.id}, имя: ${userInfo.first_name}. Тип кухни: ${orderInfo.layout}. Размер:  ${orderInfo.kitchenSizes.isKnowSize ? "не знает. " : `${orderInfo.kitchenSizes.a}x${orderInfo.kitchenSizes.b}x${orderInfo.kitchenSizes.c}. `}
-        Фасад: ${orderInfo.facade}. Тип столешницы: ${orderInfo.worktopType}. Класс фурнитуры: ${orderInfo.hardwareClass}. Ставим: ${orderInfo.hardwareClass}. 
+        Фасад: ${orderInfo.facade}. Тип столешницы: ${orderInfo.worktopType}. Класс фурнитуры: ${orderInfo.hardwareClass}. Ставим: ${orderInfo.installationDate}. 
         Бюджет: ${orderInfo.budget}. Способ оплаты: ${orderInfo.paymentMethod}. Подарок: ${orderInfo.present}. `
         let guid = Math.floor(1000000000 + Math.random() * (9000000000 + 1 - 1000000000));
         connect.send("VKWebAppCallAPIMethod", {
