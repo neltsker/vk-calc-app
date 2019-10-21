@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="609339fb-737e-4c04-9a67-fae43bbe0d66" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Page03.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page03.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/arhiv/app-for-test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.deploy">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -103,7 +101,8 @@
       <workItem from="1571582770682" duration="1486000" />
       <workItem from="1571599796829" duration="7581000" />
       <workItem from="1571607629397" duration="540000" />
-      <workItem from="1571648177119" duration="879000" />
+      <workItem from="1571648177119" duration="1144000" />
+      <workItem from="1571651855699" duration="152000" />
     </task>
     <servers />
   </component>
